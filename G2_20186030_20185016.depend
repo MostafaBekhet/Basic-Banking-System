@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576777652 source:c:\users\mosta\onedrive\desktop\g2_20186030_20185016\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<bits/c++io.h>
+

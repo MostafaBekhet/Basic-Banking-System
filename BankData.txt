@@ -1,0 +1,10 @@
+----------- ATTA -----------
+Address: GIZA
+Phone Number: 011
+Account ID: FCI-001  Account Type: (Saving)     Balance: 1900
+
+----------- ATTA2 -----------
+Address: GIZA
+Phone Number: 012
+Account ID: FCI-002  Account Type: (Certificate)      Balance: 40000
+
